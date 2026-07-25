@@ -9,11 +9,12 @@ A PowerShell-based YouTube downloader powered by yt-dlp.
 
 1.  `run_ytall.ps1` 파일을 원하는 위치(예: 바탕화면)에 놓습니다.
 2.  `run_ytall.ps1` 파일을 마우스 오른쪽 버튼으로 클릭하여 **[PowerShell에서 실행]**을 선택합니다.
+    -   Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
     -   최초 실행 시, 스크립트가 알아서 `ytall` 폴더를 만들고, 필요한 모든 파일을 다운로드 및 설치합니다. (설치 후 원본 파일은 자동으로 삭제됩니다)
-3.  법적 고지(EULA)에 동의(`y` 입력)하고, 바탕화면 바로가기 생성 여부(`y` 또는 `n`)를 선택하면 설치가 완료됩니다.
-4.  설치가 끝나면 `README.md` 파일이 자동으로 열립니다. **(중요: 꼭 한번 읽어보세요!)**
-5.  `ytall` 폴더 안의 `mp3.txt` 또는 `mp4.txt`에 다운로드할 유튜브 링크를 추가하고 저장합니다.
-6.  바탕화면에 생성된 `YTall` 바로가기 또는 `ytall` 폴더 안의 `YTall.bat`을 실행하여 다운로드를 시작합니다.
+4.  법적 고지(EULA)에 동의(`y` 입력)하고, 바탕화면 바로가기 생성 여부(`y` 또는 `n`)를 선택하면 설치가 완료됩니다.
+5.  설치가 끝나면 `README.md` 파일이 자동으로 열립니다. **(중요: 꼭 한번 읽어보세요!)**
+6.  `ytall` 폴더 안의 `mp3.txt` 또는 `mp4.txt`에 다운로드할 유튜브 링크를 추가하고 저장합니다.
+7.  바탕화면에 생성된 `YTall` 바로가기 또는 `ytall` 폴더 안의 `YTall.bat`을 실행하여 다운로드를 시작합니다.
 
 ---
 
