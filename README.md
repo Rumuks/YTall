@@ -1,4 +1,5 @@
-# YTall (Downloader Project)
+# YTall
+A PowerShell-based YouTube downloader powered by yt-dlp.
 
 유튜브 영상/음원을 편리하게 다운로드하고, 영상을 고품질로 인코딩하기 위한 PowerShell 스크립트입니다.
 
