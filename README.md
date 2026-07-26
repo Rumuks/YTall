@@ -1,18 +1,18 @@
 # YTall
-A PowerShell-based YouTube downloader powered by yt-dlp.
+yt-dlp 기반의 올인원 PowerShell 유튜브 다운로더입니다.
 
 유튜브 영상/음원을 편리하게 다운로드하고, 영상을 고품질로 인코딩하기 위한 PowerShell 스크립트입니다.
 
 ---
-## ✨ Features
+## ✨ 주요 기능
 
-- One-file installer
-- Automatic yt-dlp installation
-- Automatic FFmpeg installation
-- Video & audio download
-- Playlist support
-- Subtitle download
-- Automatic update check
+- 단일 파일 설치 프로그램
+- yt-dlp 자동 설치
+- FFmpeg 자동 설치
+- 영상 및 음원 다운로드
+- 재생목록(플레이리스트) 지원
+- 자막 다운로드
+- 자동 업데이트 확인
 
 ---
 
